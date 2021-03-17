@@ -18,4 +18,4 @@
 
 菜单 -> 文件 -> 导出
 
-<img src="https://i.imgur.com/IPOP36V.png" alt="image-20210317111553038" style="zoom:50%;" /> 
+<img src="https://i.imgur.com/IPOP36V.png" alt="image-20210317111553038" width="14%" /> 
